@@ -49,3 +49,6 @@ I am a Data Analyst with expertise in SQL, Python, Power BI, and Excel. I specia
 
 ## 📝 Blog
 - **[Data Insights Blog](https://yourblogurl.com)**: I regularly share insights and tutorials on SQL, Python, Power BI, and Excel to help aspiring data analysts enhance their technical skills.
+
+## 📫 Contact
+-LinkedIn: [Temitope Olajiga](https://www.linkedin.com/in/timmy-o-b2b7b576/)
